@@ -1,0 +1,48 @@
+# Top-level .gitignore for STM32CubeIDE projects
+# Ignore build outputs
+/Debug/
+/Release/
+/Build/
+*.elf
+*.axf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.lst
+*.a
+*.lib
+*.obj
+*.log
+*.dep
+
+# IDE/project metadata
+.settings/
+.cproject
+.project
+*.launch
+.metadata/
+
+# Editor/OS files
+.vs/
+.vscode/
+.idea/
+*.swp
+*~
+._*
+
+# Temporary files
+*.tmp
+.DS_Store
+
+# Coverage and tmp folders
+coverage/
+tmp/
+
+# Optional: exclude HAL/Driver sources if you prefer to add them as a submodule
+# Uncomment the next line to ignore the HAL driver source tree (saves space)
+# Drivers/STM32F4xx_HAL_Driver/Src/
+
+# Keep the small config file (.ioc) tracked — remove if you prefer
+# *.ioc

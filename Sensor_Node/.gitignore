@@ -1,0 +1,33 @@
+# `.gitignore` for `Sensor_Node` STM32CubeIDE project
+# Ignore build outputs and IDE metadata
+/Debug/
+/Release/
+/Build/
+*.elf
+*.axf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.lst
+*.a
+*.lib
+*.obj
+*.log
+*.dep
+
+# IDE/project files
+.settings/
+.cproject
+.project
+*.launch
+
+# Editor/OS files
+.vscode/
+.vs/
+*.swp
+*~
+
+# Optional: ignore HAL sources if adding as submodule
+# Drivers/STM32F4xx_HAL_Driver/Src/
