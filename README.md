@@ -10,3 +10,10 @@ Sensor 보드- 초음파 센서를 이용하여 거리를 측정함.
 
 
 
+
+
+<img width="718" height="943" alt="image" src="https://github.com/user-attachments/assets/62bc84c5-b524-4ce6-85f6-af30ecdcdf74" />
+
+<img width="717" height="849" alt="image" src="https://github.com/user-attachments/assets/b95ce9ed-3d56-4091-a987-1c10c8625f62" />
+
+
