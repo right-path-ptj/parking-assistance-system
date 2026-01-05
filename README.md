@@ -1,6 +1,6 @@
 <img width="1156" height="622" alt="image" src="https://github.com/user-attachments/assets/28c1aefc-2141-44af-91d0-05c125da5b32" />
 
-can 통신을 이용하여 두개의 보드간 통신을 통해 각각 Actuator, sesor 역할을 나누었습니다.
+can 통신을 이용하여 두개의 보드간 통신을 통해 각각 Actuator, Sensor 역할을 나누었습니다.
 
 Actuator 보드- 부조, led를 사용하여 sesor 보드로 받은 거리에 따라서 pwm 및 주기를 제어하여 가까울수록 경보를 울림.
 Sensor 보드- 초음파 센서를 이용하여 거리를 측정함.
